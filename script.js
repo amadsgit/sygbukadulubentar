@@ -38,7 +38,7 @@ function ftmuncul() {
     }
     if (ftganti == 2) {
         fotostiker.src = fotostiker3.src;
-        fotostiker.style = "display:inline-flex;opacity:1;transition:all .7s ease;transform:scale(1);box-shadow:none;background:none;border:0;width:300px;height:300px";
+        fotostiker.style = "display:inline-flex;opacity:1;transition:all .7s ease;transform:scale(1);box-shadow:none;background:white;border:1;width:300px;height:300px";
     }
     if (ftganti == 3) {
         fotostiker.src = fotostiker4.src;
